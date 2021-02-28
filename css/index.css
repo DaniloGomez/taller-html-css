@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/Fondo-web.jpg) no-repeat center center;
+    background-size: auto;
+}
+p{
+    color: black;
+        font-size: 40px;
+        font-family: Arial;
+        font-weight: bold;
+        border: solid 5px red;
+}
